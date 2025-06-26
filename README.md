@@ -2,7 +2,12 @@
 
 This repository contains a collection of practical recipes for implementing classic machine learning algorithms — from foundational supervised learning models to more advanced techniques.
 
-All code is written in **Python using Jupyter Notebooks**, and focuses on **pure NumPy implementations**. No external ML libraries are used.  
+All code is written in **Python using Jupyter Notebooks**, and includes:
+
+- 🔧 **Pure NumPy implementations** — to help you understand the core mechanics of each algorithm without relying on external ML libraries.
+- ⚙️ **Scikit-learn implementations** — to demonstrate how the same models can be applied efficiently using industry-standard tools.
+
+
 The goal is to provide an educational resource for learners who want to understand how machine learning works under the hood.
 
 These notebooks are ideal for:
